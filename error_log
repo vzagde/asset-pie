@@ -1,0 +1,98 @@
+[14-Dec-2016 19:26:12 America/Detroit] PHP Fatal error:  Call to a member function result() on a non-object in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 15
+[25-Dec-2016 14:04:37 America/Detroit] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 842
+[25-Dec-2016 14:04:47 America/Detroit] PHP Parse error:  syntax error, unexpected ''%'' (T_CONSTANT_ENCAPSED_STRING) in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 1285
+[25-Dec-2016 14:04:53 America/Detroit] PHP Parse error:  syntax error, unexpected ''%'' (T_CONSTANT_ENCAPSED_STRING) in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 1285
+[25-Dec-2016 14:05:11 America/Detroit] PHP Parse error:  syntax error, unexpected ''%'' (T_CONSTANT_ENCAPSED_STRING) in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 1285
+[25-Dec-2016 15:22:27 America/Detroit] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 44
+[25-Dec-2016 16:14:16 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:14:22 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:14:41 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:14:42 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:14:43 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:14:43 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:14:47 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:14:47 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:15:16 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:15:50 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:15:51 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:15:51 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:15:52 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:16:36 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:16:39 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:18:55 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:18:57 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:18:57 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:18:57 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 90
+[25-Dec-2016 16:31:19 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 88
+[25-Dec-2016 16:32:49 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 141
+[25-Dec-2016 16:32:51 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 141
+[25-Dec-2016 16:32:51 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 141
+[25-Dec-2016 16:33:23 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 141
+[25-Dec-2016 16:33:24 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 141
+[25-Dec-2016 16:33:24 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 141
+[25-Dec-2016 16:33:25 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 141
+[25-Dec-2016 16:33:44 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 141
+[25-Dec-2016 16:33:45 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 141
+[25-Dec-2016 16:33:46 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 141
+[25-Dec-2016 16:33:46 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 141
+[25-Dec-2016 16:33:46 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 141
+[25-Dec-2016 16:37:12 America/Detroit] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 88
+[25-Dec-2016 16:50:55 America/Detroit] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 48
+[25-Dec-2016 16:55:44 America/Detroit] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 44
+[25-Dec-2016 16:55:50 America/Detroit] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 44
+[25-Dec-2016 17:05:46 America/Detroit] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 45
+[25-Dec-2016 17:26:11 America/Detroit] PHP Fatal error:  Call to a member function result() on a non-object in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 164
+[25-Dec-2016 17:26:56 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 42
+[25-Dec-2016 17:27:47 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 42
+[25-Dec-2016 17:27:48 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 42
+[25-Dec-2016 17:27:48 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 42
+[25-Dec-2016 17:27:49 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 42
+[25-Dec-2016 17:28:20 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 42
+[25-Dec-2016 17:29:02 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 42
+[25-Dec-2016 17:30:39 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 42
+[25-Dec-2016 17:30:49 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 42
+[25-Dec-2016 17:30:52 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 42
+[25-Dec-2016 17:37:34 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 42
+[25-Dec-2016 17:38:20 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 198
+[25-Dec-2016 17:38:21 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 198
+[25-Dec-2016 17:38:21 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 198
+[25-Dec-2016 17:38:21 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 198
+[25-Dec-2016 17:39:39 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 199
+[25-Dec-2016 17:40:01 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 199
+[25-Dec-2016 17:40:02 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 199
+[25-Dec-2016 17:40:02 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/sdtaxult/public_html/fibroscan/application/controllers/admin.php on line 199
+[25-Dec-2016 17:41:35 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 42
+[25-Dec-2016 17:50:10 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 42
+[25-Dec-2016 17:50:51 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 42
+[25-Dec-2016 17:51:14 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 42
+[25-Dec-2016 17:51:28 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_reporting.php on line 42
+[25-Dec-2016 19:13:46 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/sdtaxult/public_html/fibroscan/application/views/admin_theme/fam_tour_plan.php on line 66
+[29-Dec-2016 07:46:46 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/sdtaxult/public_html/fibroscan/application/controllers/home.php on line 334
+[29-Dec-2016 07:48:39 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/sdtaxult/public_html/fibroscan/application/controllers/home.php on line 335
+[29-Dec-2016 07:50:44 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/sdtaxult/public_html/fibroscan/application/controllers/home.php on line 335
+[29-Dec-2016 07:52:09 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/sdtaxult/public_html/fibroscan/application/controllers/home.php on line 335
+[29-Dec-2016 07:52:10 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/sdtaxult/public_html/fibroscan/application/controllers/home.php on line 335
+[29-Dec-2016 07:52:41 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/sdtaxult/public_html/fibroscan/application/controllers/home.php on line 335
+[29-Dec-2016 07:54:41 America/Detroit] PHP Fatal error:  Call to a member function query() on a non-object in /home/sdtaxult/public_html/fibroscan/application/controllers/home.php on line 335
+[29-Dec-2016 08:36:52 America/Detroit] PHP Parse error:  syntax error, unexpected ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/home.php on line 350
+[29-Dec-2016 08:47:29 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/sdtaxult/public_html/fibroscan/application/controllers/home.php on line 370
+[31-Dec-2016 08:10:58 America/Detroit] PHP Fatal error:  Call to undefined method Api::jsonify() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 13
+[03-Jan-2017 09:52:35 America/Detroit] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sdtaxult/public_html/fibroscan/application/controllers/home.php on line 512
+[10-Jan-2017 08:41:02 America/Detroit] PHP Parse error:  syntax error, unexpected '$machine_data' (T_VARIABLE) in /home/sdtaxult/public_html/fibroscan/application/controllers/home.php on line 451
+[10-Jan-2017 08:41:03 America/Detroit] PHP Parse error:  syntax error, unexpected '$machine_data' (T_VARIABLE) in /home/sdtaxult/public_html/fibroscan/application/controllers/home.php on line 451
+[24-Jan-2017 05:18:45 America/Detroit] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::post() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 264
+[24-Jan-2017 05:19:48 America/Detroit] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::post() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 264
+[24-Jan-2017 05:31:10 America/Detroit] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::post() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 264
+[28-Jan-2017 15:40:09 America/Detroit] PHP Fatal error:  Call to undefined method Api::jsonify() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 13
+[01-Feb-2017 02:49:02 America/Detroit] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::post() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 264
+[04-Feb-2017 09:32:05 America/Detroit] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::post() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 264
+[04-Feb-2017 09:32:24 America/Detroit] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::post() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 264
+[04-Feb-2017 09:43:08 America/Detroit] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::post() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 264
+[04-Feb-2017 09:47:03 America/Detroit] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::post() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 264
+[04-Feb-2017 11:10:13 America/Detroit] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::post() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 264
+[04-Feb-2017 11:48:18 America/Detroit] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::post() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 264
+[04-Feb-2017 12:53:26 America/Detroit] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::post() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 264
+[07-Feb-2017 03:27:19 America/Detroit] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::post() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 264
+[07-Feb-2017 03:27:52 America/Detroit] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::post() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 264
+[07-Feb-2017 03:30:08 America/Detroit] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::post() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 264
+[16-Feb-2017 00:51:21 America/Detroit] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::post() in /home/sdtaxult/public_html/fibroscan/application/controllers/api.php on line 264

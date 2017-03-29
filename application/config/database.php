@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = 'root';
-$db['default']['database'] = 'db_asset_pie';
+$db['default']['username'] = 'crowefsy_admin';
+$db['default']['password'] = 'admin@admin';
+$db['default']['database'] = 'crowefsy_asset_pie';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;

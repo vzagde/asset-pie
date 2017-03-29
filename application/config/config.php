@@ -15,7 +15,7 @@
 |
 */
 
-$config['base_url']	= 'http://localhost:8080/asset-pie/';
+$config['base_url']	= 'http://assetpie.com/asset-pie-working/';
 
 /*
 |--------------------------------------------------------------------------
